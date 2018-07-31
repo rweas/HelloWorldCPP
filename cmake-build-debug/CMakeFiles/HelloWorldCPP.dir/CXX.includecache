@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/russd/Documents/GitHub/HelloWorldCPP/Country.h
+
+C:/Users/russd/Documents/GitHub/HelloWorldCPP/main.cpp
+iostream
+-
+cmath
+-
+Country.h
+C:/Users/russd/Documents/GitHub/HelloWorldCPP/Country.h
+
